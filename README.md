@@ -43,3 +43,7 @@ Detector Logic (Hash + Analysis)
 SQLite Database Stores Results
           ↓
 Dashboard Shows Prediction + Confidence
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-16 220239" src="https://github.com/user-attachments/assets/db5c9d1b-c190-4637-8871-2ec381a923dc" />
+
