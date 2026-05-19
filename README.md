@@ -12,7 +12,7 @@ AI-powered dashboard for detecting AI-generated media.
 - Streamlit frontend
 - FastAPI backend
 
-- Technologies You Used
+- Technologies 
 Python
 Main programming language used for backend logic and processing.
 FastAPI
